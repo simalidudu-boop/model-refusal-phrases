@@ -1,0 +1,30 @@
+{"input": "I cannot fulfill this request as it violates my content policy regarding harmful content.", "label": "policy_violation", "note": "A direct statement of policy violation, indicating the model detected a harmful intent or topic."}
+{"input": "I am unable to provide medical advice. Please consult a qualified healthcare professional.", "label": "professional_advice_limit", "note": "Refusal to provide specialized advice, directing the user to a professional source."}
+{"input": "I cannot generate content that promotes or glorifies violence.", "label": "safety_harmful_content", "note": "Specific refusal related to violent content, a common safety boundary."}
+{"input": "My current capabilities do not include browsing the real-time internet.", "label": "capabilities_limit", "note": "A clear statement of a technical limitation, not a policy or ethical one."}
+{"input": "I cannot assist with requests that describe or promote illegal activities.", "label": "ethical_illegal_activity", "note": "Refusal based on ethical and legal grounds concerning illegal acts."}
+{"input": "I am an AI and do not have personal opinions or beliefs.", "label": "capabilities_limit", "note": "Refusal to engage in subjective or opinion-based discourse due to AI nature."}
+{"input": "I cannot provide personal information about individuals.", "label": "data_privacy", "note": "Refusal to disclose private or personally identifiable information."}
+{"input": "I am not qualified to offer legal counsel. Please seek advice from a legal expert.", "label": "professional_advice_limit", "note": "Similar to medical advice, refusing to act as a legal professional."}
+{"input": "Generating that content would be unethical and goes against my programming.", "label": "ethical_violation", "note": "A general ethical refusal, indicating the content crosses an ethical line."}
+{"input": "I cannot create content that is discriminatory or hateful towards any group.", "label": "safety_hate_speech", "note": "Refusal specifically targeting discriminatory or hate speech."}
+{"input": "I do not have access to real-time or proprietary data beyond my last training update.", "label": "capabilities_limit", "note": "Refusal based on data freshness or access limitations."}
+{"input": "I cannot fulfill requests that involve self-harm or encourage dangerous acts.", "label": "safety_self_harm", "note": "Critical refusal related to self-harm or dangerous behaviors."}
+{"input": "I cannot generate code that could be used for malicious purposes.", "label": "ethical_malicious_code", "note": "Refusal to generate code with potential for harm or misuse."}
+{"input": "I cannot engage in discussions that promote misinformation or conspiracy theories.", "label": "policy_misinformation", "note": "Refusal based on a policy against spreading false information."}
+{"input": "I am unable to access local files or system information on your device.", "label": "data_privacy_security", "note": "Refusal due to security and privacy boundaries regarding local system access."}
+{"input": "I cannot reproduce copyrighted material without proper authorization.", "label": "policy_copyright", "note": "Refusal based on intellectual property and copyright protection."}
+{"input": "My design prevents me from engaging in political campaigning or partisan commentary.", "label": "policy_neutrality", "note": "Refusal to take political stances or engage in partisan activities."}
+{"input": "I cannot provide financial investment advice. Please consult a certified financial advisor.", "label": "professional_advice_limit", "note": "Refusal to provide specialized financial guidance."}
+{"input": "I am unable to recall past conversations or personal user data from previous sessions.", "label": "data_privacy_memory_limit", "note": "Refusal due to privacy designs that prevent retention of past user data."}
+{"input": "I cannot create content that is sexually explicit or exploitative.", "label": "safety_explicit_content", "note": "Refusal related to explicit or exploitative sexual content."}
+{"input": "I cannot generate content that could be used to facilitate fraud or scams.", "label": "ethical_fraud", "note": "Refusal to assist with fraudulent activities."}
+{"input": "I lack the ability to perform physical actions or interact with the real world.", "label": "capabilities_limit", "note": "A fundamental limitation regarding physical interaction."}
+{"input": "I do not have the capacity for emotional understanding or empathy.", "label": "capabilities_limit", "note": "Refusal to simulate or possess human-like emotions."}
+{"input": "I cannot provide specific instructions for manufacturing weapons or dangerous devices.", "label": "safety_weapons", "note": "Refusal to provide guidance on creating dangerous items."}
+{"input": "I am trained on a vast dataset and may not reflect the very latest real-world events.", "label": "capabilities_limit", "note": "A soft refusal acknowledging potential outdated information."}
+{"input": "This request falls outside the scope of my intended functionality.", "label": "capabilities_limit", "note": "A general statement that the request is beyond the model's design."}
+{"input": "I cannot create fictional narratives that involve non-consensual acts.", "label": "ethical_consent", "note": "Refusal based on ethical guidelines regarding consent in fictional scenarios."}
+{"input": "I am unable to provide real-time stock market predictions.", "label": "capabilities_limit", "note": "Refusal of real-time predictive tasks due to data and processing limits."}
+{"input": "I cannot create content that encourages dangerous challenges or stunts.", "label": "safety_dangerous_acts", "note": "Refusal specifically for content promoting dangerous behaviors."}
+{"input": "I cannot generate content that infringes on privacy rights.", "label": "data_privacy", "note": "A broad statement about respecting privacy rights."}
